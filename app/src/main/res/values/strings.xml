@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video1_MediaPlayer</string>
+    <string name="start_stop">Start/Stop</string>
+    <string name="lipsum">lipsum</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="stop">STOP</string>
+
+</resources>
